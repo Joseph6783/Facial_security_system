@@ -8,6 +8,10 @@ The `run_servo.py` is the script to run in order to detect faces and turn the se
 
 #### [Project Demo - YouTube](https://www.youtube.com/watch?v=E9G17-cWnfo)
 
+### Developers:
+* Joseph Stone
+* James Clawson
+* John Eholor
 
 ## Resources
 
